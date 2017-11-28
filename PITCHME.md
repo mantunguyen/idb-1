@@ -12,8 +12,8 @@ Christopher Gutierrez, Corbin Rogerson, David Malone, Joshua Ondrusek, Nelson Sw
 
 +++
 
-<a href="http://weebmd.me/" target"_blank">![WeebMD](./pitchassets/weebmd.png)</a>
-<a href="http://weebmd.me/" target"_blank">http://weebmd.me/</a>
+[![WeebMD](./pitchassets/weebmd.png)](http://weebmd.me/)
+[http://weebmd.me/](http://weebmd.me/)
 
 ---
 
