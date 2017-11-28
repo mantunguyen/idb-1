@@ -8,11 +8,11 @@ Christopher Gutierrez, Corbin Rogerson, David Malone, Joshua Ondrusek, Nelson Sw
 @title[Demonstration]
 
 # Demonstration
-@fa[fa-arrow-down]
+@fa[arrow-down]
 
 +++
 
-![WeebMD](./pitchassets/weebmd.png)
+<a href="http://weebmd.me/" target"_blank">![WeebMD](./pitchassets/weebmd.png)</a>
 <a href="http://weebmd.me/" target"_blank">http://weebmd.me/</a>
 
 ---
