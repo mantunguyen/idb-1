@@ -1,13 +1,17 @@
 @title[Introduction]
 
 # **WeebMD**
-Christopher Gutierrez, Corbin Rogerson, David Malone, Joshua Ondrusek, Nelson Swindler, Randy Thai
+Christopher Gutierrez, Corbin Rogerson, David Malone, Joshua Ondrusek, Nelson Swindler, and Randy Thai
 
 ---
 
 @title[Demonstration]
 
-### Demonstration
+# Demonstration
+@fa[fa-arrow-down]
+
++++
+
 ![WeebMD](./pitchassets/weebmd.png)
 <a href="http://weebmd.me/" target"_blank">http://weebmd.me/</a>
 
@@ -15,7 +19,7 @@ Christopher Gutierrez, Corbin Rogerson, David Malone, Joshua Ondrusek, Nelson Sw
 
 @title[Self Critique]
 
-### Self Critique
+# Self Critique
 * What did we do well?
 * What did we learn?
 * What can we do better?
@@ -25,7 +29,7 @@ Christopher Gutierrez, Corbin Rogerson, David Malone, Joshua Ondrusek, Nelson Sw
 
 @title[Other Critique]
 
-### Other Critique
+# Other Critique
 * What did they do well?
 * What did we learn from their website?
 * What can they do better?
@@ -35,4 +39,4 @@ Christopher Gutierrez, Corbin Rogerson, David Malone, Joshua Ondrusek, Nelson Sw
 
 @title[Visualization]
 
-### Visualization
+# Visualization
